@@ -1,5 +1,5 @@
 # Example data sets for promor
-Data for running examples and tutorials in promor
+## Data for running examples and tutorials in promor
 
 ---
 
